@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @AnbalaganD
-- 👀 I’m interested in Game development, Reading books
-- 🌱 I’m currently doing MAUI, iOS and Android development
+- 🌱 I’m currently doing iOS and Android and dot net MAUI development
