@@ -1,1 +1,1 @@
-- 🌱 I’m currently doing iOS and Android and dot net MAUI development
+- 🌱 I’m currently doing iOS, Android and dot net MAUI development
