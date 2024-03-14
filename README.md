@@ -1,1 +1,1 @@
-- 🌱 I’m currently doing iOS, Android and dot net MAUI development
+Enthusiastic `iOS developer` with a strong foundation in mobile application development. I actively engage in personal projects to further my skills and explore new functionalities.<br/><br/> I possess a deep passion for Swift and SwiftUI, and I contribute to the developer community by `maintaining open-source libraries` and assisting others on platforms like `Stack Overflow`.
